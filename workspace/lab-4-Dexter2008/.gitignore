@@ -1,0 +1,18 @@
+xenv
+*.pyc
+__pycache__
+.coverage
+htmlcov
+sandbox
+updatepypi.sh
+switchyard.egg-info
+build
+dist
+tmp/
+# venv
+syenv/
+# vscode
+.vscode/
+arp_table.txt
+my_forward_table.txt
+my_interfaces.txt
